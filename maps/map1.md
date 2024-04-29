@@ -1,3 +1,7 @@
+layout: page
+title: "MAP-1"
+permalink: /MAP-1
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
