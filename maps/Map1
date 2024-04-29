@@ -34,7 +34,7 @@
     <div class="container">
         <h1>Welcome to My Webpage</h1>
         <p>This is a simple webpage with text and an image.</p>
-        <img src="example.jpg" alt="Example Image">
+        <img src="maps/map1.jpg" alt="Example Image">
     </div>
 </body>
 </html>
